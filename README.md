@@ -6,7 +6,7 @@
 
 -Kurulumu yaptıktan sonra VSCode uygulamasından split terminal (yan yana iki tane olacak) açın.
 
--Birine ‘cs backend’ diğerine ‘cd frontend’ yazın.
+-Birine ‘cd backend’ diğerine ‘cd frontend’ yazın.
 
 -Gerekli paketleri yüklemek için iki terminale de ‘npm i’ yazın.
 
